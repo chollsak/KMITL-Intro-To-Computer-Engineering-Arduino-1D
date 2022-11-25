@@ -3,4 +3,4 @@
 FACULTY OF ENGINEERING, COMPUTER ENGINEERING
 KING MONGKUT’S INSTITUTE OF TECHNOLOGY LADKRABANG
 <br/>
-![Alt text]("C:\Users\koonn\Downloads\S__6397996.jpg"?raw=true "Title")
+<img src=""C:\Users\koonn\Downloads\S__6397996.jpg" alt="Alt text" title="Optional title">
